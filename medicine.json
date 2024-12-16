@@ -1,0 +1,62 @@
+{
+    "categories": [
+      {
+        "name": "Analgesics",
+        "items": [
+          { "name": "Paracetamol", "price": 3, "image": "images/IMG-20241216-WA0002.jpg" },
+          { "name": "Ibuprofen", "price": 5, "image": "images/IMG-20241216-WA0003.jpg" },
+          { "name": "Aspirin", "price": 4, "image": "images/IMG-20241216-WA0004.jpg" },
+          { "name": "Naproxen", "price": 6, "image": "images/IMG-20241216-WA0005.jpg" },
+          { "name": "Codeine", "price": 8, "image": "images/IMG-20241216-WA0006.jpg" },
+          { "name": "Morphine", "price": 10, "image": "images/IMG-20241216-WA0007.jpg" }
+        ]
+      },
+      {
+        "name": "Antibiotics",
+        "items": [
+          { "name": "Amoxicillin", "price": 7, "image": "images/IMG-20241216-WA0009.jpg" },
+          { "name": "Ciprofloxacin", "price": 8, "image": "images/IMG-20241216-WA0010.jpg" },
+          { "name": "Doxycycline", "price": 6, "image": "images/IMG-20241216-WA0011.jpg" },
+          { "name": "Clindamycin", "price": 9, "image": "images/IMG-20241216-WA0012.jpg" },
+          { "name": "Erythromycin", "price": 7, "image": "images/IMG-20241216-WA0013.jpg" },
+          { "name": "Azithromycin", "price": 8, "image": "images/IMG-20241216-WA0014.jpg" }
+
+        ]
+      },
+      {
+        "name": "Antidepressants",
+        "items": [
+          { "name": "Sertraline", "price": 12, "image": "images/IMG-20241216-WA0015.jpg" },
+          { "name": "Fluoxetine", "price": 10, "image": "images/IMG-20241216-WA0016.jpg" },
+          { "name": "Citalopram", "price": 11, "image": "images/IMG-20241216-WA0017.jpg" },
+          { "name": "Paroxetine", "price": 13, "image": "images/IMG-20241216-WA0018.jpg" },
+          { "name": "Venlafaxine", "price": 15, "image": "images/IMG-20241216-WA0019.jpg" },
+          { "name": "Amitriptyline", "price": 10, "image": "images/IMG-20241216-WA0020.jpg" }
+
+        ]
+      },
+      {
+        "name": "Antihistamines",
+        "items": [
+          { "name": "Loratadine", "price": 5, "image": "images/IMG-20241216-WA0021.jpg" },
+          { "name": "Cetirizine", "price": 4, "image": "images/IMG-20241216-WA0022.jpg" },
+          { "name": "Fexofenadine", "price": 6, "image": "images/IMG-20241216-WA0023.jpg" },
+          { "name": "Diphenhydramine", "price": 3, "image": "images/IMG-20241216-WA0024.jpg" }
+
+        ]
+      },
+      {
+        "name": "Antihypertensives",
+        "items": [
+          { "name": "Atenolol", "price": 8, "image": "images/IMG-20241216-WA0025.jpg" },
+          { "name": "Losartan", "price": 10, "image": "images/IMG-20241216-WA0026.jpg" },
+          { "name": "Lisinopril", "price": 9, "image": "images/IMG-20241216-WA0027.jpg" },
+          { "name": "Metoprolol", "price": 11, "image": "images/IMG-20241216-WA0028.jpg" },
+          { "name": "Valsartan", "price": 12, "image": "images/IMG-20241216-WA0029.jpg" },
+          { "name": "Clonidine", "price": 7, "image": "images/IMG-20241216-WA0030.jpg" }
+
+        ]
+      }
+    ]
+  }
+  
